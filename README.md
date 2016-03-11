@@ -143,3 +143,4 @@ Liste des étudiants ayant réussi ce TP
 * Valentin BONINO,
 * Baptiste LOMBARDO.
 * Ka-Yan YIM.
+* Audrey HENRIETTE.
