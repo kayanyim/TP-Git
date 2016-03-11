@@ -1,4 +1,4 @@
-﻿Git par la pratique
+Git par la pratique
 ===================
 
 * Mettez vous en binôme.
@@ -142,3 +142,4 @@ Liste des étudiants ayant réussi ce TP
 * Clement DOSDA,
 * Valentin BONINO,
 * Baptiste LOMBARDO.
+* Ka-Yan YIM.
